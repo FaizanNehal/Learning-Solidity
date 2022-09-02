@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "CandyShop": "8eb68f0cc6c76695794e23b432072fb41783097f"
+  },
+  "tests": {
+    "tests/test_candy.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "ss.",
+      "sha1": "1dab136b1893efa90a189011193c77b4b9be5dcb",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
